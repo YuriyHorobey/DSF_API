@@ -1,4 +1,1 @@
-DSF_API
-=======
-
-API docs for Dumb Simple Framework
+API docs for <a href="https://github.com/YuriyHorobey/DSF">Dumb Simple Framework</a>
